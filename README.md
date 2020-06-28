@@ -9,4 +9,7 @@ pipeline for retrieving and processing trinucleotide repeats from multiple genom
 
 ## Run
 * the analysis is automated and will download all necessary data files and create the directory structure
-* entry to the pipeline is from workflow.sh
+* To run the pipeline, please execute workflow.sh:
+```
+./workflow.sh
+```
