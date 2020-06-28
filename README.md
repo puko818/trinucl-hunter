@@ -2,7 +2,7 @@
 pipeline for retrieving and processing trinucleotide repeats from multiple genomic databases from UCSC GenomeBrowser.
 
 * Requirements
-** bash
+-- bash
 ** Linux textutils
 ** Python v2.7
 
